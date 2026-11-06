@@ -11,4 +11,3 @@ Este proyecto trata de como afecta a los jóvenes tener como primera fuente de a
 - [Analizar las diferencias percibidas por los jóvenes entre recibir apoyo emocional de una IA y de una persona]
 ## Web del proyecto
 [Visita la web](https://[nuriafranco].github.io/[El-impacto-del-uso-de-la-inteligencia-artifical-como-primera-fuente-de-apoyo-emocional])
-![[Describe la imagen en una frase]](img/[nombre-de-tu-imagen].png)
